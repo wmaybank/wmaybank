@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wmaybank
-- 👀 I’m interested in tratar de salvar al mundo 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in tratar de salvar al mundo
+- 💪 I'm working in technology for 16 years
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m collaborate on all open source and crypto projects!
 - 📫 How to reach me in @wmaybank wmaybank@gmail.com @wally_Arg
 
