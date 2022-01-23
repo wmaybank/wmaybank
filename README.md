@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wmaybank
+- 👋 Hi, I’m @wallycho
 - 👀 I’m interested in tratar de salvar al mundo
 - 💪 I'm working in technology for 16 years
 - 🌱 I’m currently learning DevOps
